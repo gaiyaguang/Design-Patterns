@@ -7,3 +7,4 @@ factory_simple 简单工厂模式（静态工厂模式）
 factory_abstract 抽象工厂模式
 clone 原型模式
 mediator 中介者模式
+command 命令模式
