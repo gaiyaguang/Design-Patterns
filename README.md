@@ -5,3 +5,5 @@ template 模板方法模式
 proxy 代理模式(proxy_normal 普通代理 proxy_strong 强制代理 proxy_dynamic 动态代理)
 factory_simple 简单工厂模式（静态工厂模式）
 factory_abstract 抽象工厂模式
+clone 原型模式
+mediator 中介者模式
