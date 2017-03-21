@@ -8,3 +8,4 @@ factory_abstract 抽象工厂模式
 clone 原型模式
 mediator 中介者模式
 command 命令模式
+chain 责任链模式
