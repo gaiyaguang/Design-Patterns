@@ -9,3 +9,4 @@ clone 原型模式
 mediator 中介者模式
 command 命令模式
 chain 责任链模式
+decorator 装饰者模式
