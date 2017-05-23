@@ -11,3 +11,5 @@ command 命令模式
 chain 责任链模式
 decorator 装饰者模式
 strategy 策略模式
+composite 组合模式
+facade 门面模式
