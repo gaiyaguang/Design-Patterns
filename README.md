@@ -13,3 +13,4 @@ decorator 装饰者模式
 strategy 策略模式
 composite 组合模式
 facade 门面模式
+memento 备忘录模式
